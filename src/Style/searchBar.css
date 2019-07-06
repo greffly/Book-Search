@@ -1,0 +1,22 @@
+.searchWord,
+.filters {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: space-evenly;
+  padding: 10px;
+  background-color: gainsboro;
+}
+
+.searchKeyword {
+  margin: 5px;
+}
+
+.bookType,
+.printType {
+  margin: 0 5px;
+}
+
+.bookType {
+  margin-left: 20px;
+}
